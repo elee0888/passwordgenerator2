@@ -1,0 +1,37 @@
+body {
+    min-height: 100vh;
+    padding-top: 100px;
+    background: #3f74c4;
+    font-family: "Kanit", sans-serif;
+    font-weight: 500;
+    font-size: xx-large;
+    align-content: center;
+    text-align: center;
+  }
+#generate{
+    width: 80%;
+    padding-top: 10px;
+    border-spacing: 10px;
+}
+
+#password{
+    width: 500px;
+    height: 300px;
+    align-content: center;
+    text-align: center;
+    
+}
+
+#copy{
+    background: red;
+}
+
+.container{
+    background:rgb(65, 74, 112);
+    width:800px;
+    height:400px;
+    line-height:40px;
+    display: table;
+    text-align: center;
+}
+
