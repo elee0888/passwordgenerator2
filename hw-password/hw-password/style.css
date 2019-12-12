@@ -1,0 +1,32 @@
+body {
+    
+    font-family: "Kanit", sans-serif;
+    font-weight: 500;
+    font-size: xx-large;
+    align-content: center;
+    text-align: center;
+    
+  }
+#generate{
+    width: 30%;
+    padding-top: 10px;
+    border-spacing: 10px;
+    background: rgb(64, 124, 192);
+}
+
+/*#password{
+    width: 500px;
+    height: 300px;
+    align-content: center;
+    text-align: center;
+    
+}
+*/
+#copy{
+    background: red;
+}
+
+.container{
+   
+}
+
